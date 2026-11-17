@@ -35,5 +35,5 @@ Older projects are in my [repositories](https://github.com/Stef-Martens?tab=repo
 
 ## 📫 Get in touch
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- LinkedIn: https://www.linkedin.com/in/stef-martens-938a9b192/
 - E-mail: stef.m@hotmail.be
